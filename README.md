@@ -3,17 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Oleksii, a Front End developer 👨‍💻 <br> I have been working with pleasure since 2018 🚀</div>  
-  
+## <div align="center">I'm Oleksii, a Front End developer 👨‍💻 <br> I have been working with pleasure since 2018 🚀</div>  
+
+#### <div align="left">Frontend developer who does quality work. I am constantly learning new things and improving my skills. I like to work in a team to achieve the best result. Experience with Agile Scrum development methodology.</div>  
+
+<br/>
 
 - 🔭 I’m currently open to work  
   
 
-- 🌱 Improving my React coding skills  
+- 🌱 Improving my React coding skills right now
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
